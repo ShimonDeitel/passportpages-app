@@ -1,0 +1,27 @@
+{
+  "identifier": "Configuration",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "100000010",
+      "localizations": [
+        {
+          "description": "Multiple passports, renewal reminders, and page-usage history",
+          "displayName": "Passport Pages Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "passportpages_pro",
+      "referenceName": "Passport Pages Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
